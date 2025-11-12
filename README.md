@@ -6,9 +6,9 @@ Data Science Student
 
 I've been learning coding intensely for a year now as a Data Science and Economics major at Minerva University. I recently completed the Udemy "Complete Python & Data Science Course for Absolute Beginners (Zero to Hero)" Course.
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [ada@uni.minerva.edu](mailto:ada@uni.minerva.edu)
-* 🧠  I'm learning Machine Learning & AI
+* 🧠  I'm mastering Machine Learning & AI
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
